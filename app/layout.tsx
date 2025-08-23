@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   description:
     "Transform your sales pipeline with our proprietary iLMS (Lead Management System). Automate lead scoring, accelerate conversions, and maximize revenue with intelligent insights.",
   keywords: "lead management, sales pipeline, lead scoring, iLMS, B2B sales tools, CRM, sales automation",
+  icons: {
+    icon: "/favicon.png",
+  },
   authors: [{ name: "Elevationchangedoc Solutions" }],
   openGraph: {
     title: "Elevationchangedoc Solutions - Intelligent Lead Management",
